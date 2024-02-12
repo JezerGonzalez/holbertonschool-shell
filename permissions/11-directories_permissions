@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo chmod -R /permissions
+sudo chmod -R /permissions/
