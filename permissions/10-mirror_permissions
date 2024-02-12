@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod sudo --reference=hello olleh
+sudo chown --reference=hello olleh
