@@ -1,2 +1,2 @@
 #!/bin/bash
-tr : | grep "/" -o | wc -l
+echo $PATH | tr ":" "/n" | grep / | wc -l
